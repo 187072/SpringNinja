@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "NinjaPrototype.data.unityweb",
+"asmCodeUrl": "NinjaPrototype.asm.code.unityweb",
+"asmMemoryUrl": "NinjaPrototype.asm.memory.unityweb",
+"asmFrameworkUrl": "NinjaPrototype.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
